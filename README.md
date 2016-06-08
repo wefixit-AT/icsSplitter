@@ -8,6 +8,6 @@ This tool splits a ics into pieces.
 
 Example:
 
-    ruby icsSplitter.rb 1000 <file.ics>
+    ruby icsSplitter.rb 1000 calendar.ics
 
 This splits a calender into pieces of 1000 appointments per file.
