@@ -99,5 +99,4 @@ data.each do |line|
   end
 end
 
-#addFooter(newFile)
 newFile.close
